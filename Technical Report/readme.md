@@ -1,1 +1,1 @@
-This folder contains the technical report for Cerebro Index Framework.
+The Technical Report is uploaded to NUS-ISS Canvas.
