@@ -16,3 +16,6 @@ Hence, to date, a universal standard for defining and measuring question difficu
 
 # Proposed Solution - The Cerebro Index Framework
 Introducing the Cerebro Index (CI), a framework that integrates educational theory, cognitive science, and technical metrics into a unified system to quantify the complexity of a question.
+<img width="2970" height="1800" alt="Cerebro Index Framework - visual selection" src="https://github.com/user-attachments/assets/b6f3aa52-65b0-487e-a13f-4ef04550fc61" />
+
+
