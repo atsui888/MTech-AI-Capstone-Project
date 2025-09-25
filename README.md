@@ -23,7 +23,7 @@ When given a text question as input, the Cerebro Index Framework outputs a compl
 The CI framework addresses limitations in existing methods, such as subjective human judgment, rigid rule-based systems, and opaque machine learning models, by combining educational theory with scalable, interpretable metrics.  
 
 # Cerebro Index Frame System Design
-<img width="2152" height="1250" alt="CI System Components" src="https://github.com/user-attachments/assets/efa1f278-c039-4eea-8809-014c07a46333" />
+
 
 
 
