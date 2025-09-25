@@ -44,6 +44,7 @@ The CI framework addresses limitations in existing methods, such as subjective h
 # Limitations
 While the results are promising, especially for RQ1, the study has limitations. The sample size was small, with only 54 unique questions evaluated by 51 participants for a total of 588 ranked or categorised questions, which limited the statistical power of the study. 
 It was a deliberate study design not to provide rubrics to the human evaluators to avoid biasing judgements. While the study did capture the raters’ natural correlations and category assignments, it introduced variability in human judgment for RQ2.
+
 The coverage for this study was narrow, with only three domains and limited question diversity. 
 Despite these constraints, the study confirmed the potential of the Cerebro Index Framework.
 <br>
