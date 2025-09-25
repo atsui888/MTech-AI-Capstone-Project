@@ -9,6 +9,7 @@ The persistent misalignment between question complexity and perceived difficulty
 > “How can we improve the AI system’s ability to generate questions with complexity levels that consistently align with human expectations of difficulty?”
 
 <br>
+
 # Challenges
 Achieving proper alignment between AI understanding of question complexity and human perception of difficulty faces several interrelated challenges.
 This is because "difficulty" is:
