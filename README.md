@@ -56,6 +56,7 @@ These findings support the CI Framework’s utility in:
 Furthermore, the standardised nature of CI scoring enables cross-domain comparability, allowing for equating difficulty across disparate knowledge areas (e.g., supermarket math vs. machine learning theory), provided format-specific adjustments are applied.
 The CI Framework provides a psychometrically grounded, continuous measure of question complexity that bridges subjective perception and objective quantification. 
 <br>
+
 With further refinement and expanded validation, the Cerebro Index Framework has the potential to become a foundational tool for intelligent tutoring systems, automated assessment design, and rigorous AI capability benchmarking, enhancing the AI ability to generate questions with complexity levels that consistently match the difficulty expected by human users.
 
 <br>
