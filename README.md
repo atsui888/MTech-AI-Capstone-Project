@@ -41,8 +41,22 @@ While the results are promising, especially for RQ1, the study has limitations. 
 It was a deliberate study design not to provide rubrics to the human evaluators to avoid biasing judgements. While the study did capture the raters’ natural correlations and category assignments, it introduced variability in human judgment for RQ2.
 The coverage for this study was narrow, with only three domains and limited question diversity. 
 Despite these constraints, the study confirmed the potential of the Cerebro Index Framework.
+<br>
+
+# Study Conclusion and Next Steps
+The Cerebro Index (CI) Framework demonstrates empirical validity as a quantitative method for assessing question complexity. The framework exhibits strong rank-order correlation between CI Scores and human-perceived difficulty (Spearman’s ρ > 0.7 in 6 of 9 domain-format conditions), with statistically significant alignment (p < 0.05) in key configurations such as Time in Personal Travel - MCQ (ρ = 0.943) and Supervised Machine Learning - True/False (ρ = 0.986).
 
 <br>
+These findings support the CI Framework’s utility in:
+- Cognitive load modelling in educational assessments
+- Instructional sequencing and curriculum design
+- Adaptive learning systems, where CI scores can inform item selection and difficulty progression
+- AI evaluation, enabling benchmarking of LLMs on questions with objectively calibrated complexity
+
+Furthermore, the standardised nature of CI scoring enables cross-domain comparability, allowing for equating difficulty across disparate knowledge areas (e.g., supermarket math vs. machine learning theory), provided format-specific adjustments are applied.
+The CI Framework provides a psychometrically grounded, continuous measure of question complexity that bridges subjective perception and objective quantification. 
+<br>
+With further refinement and expanded validation, the Cerebro Index Framework has the potential to become a foundational tool for intelligent tutoring systems, automated assessment design, and rigorous AI capability benchmarking, enhancing the AI ability to generate questions with complexity levels that consistently match the difficulty expected by human users.
 
 <br>
 
