@@ -8,9 +8,6 @@ The persistent misalignment between question complexity and perceived difficulty
 
 # Challenges
 Achieving proper alignment between AI understanding of question complexity and human perception of difficulty faces several interrelated challenges.
-<img width="800" height="600" alt="Chellenges in Measuring Complexity" src="https://github.com/user-attachments/assets/097b0611-63e0-4d80-ae08-3f664c5fe1b8" />
-
-
 This is because "difficulty" is:
 - A Fluid Concept
 - Malleable
