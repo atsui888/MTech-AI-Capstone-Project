@@ -7,7 +7,10 @@ The persistent misalignment between question complexity and perceived difficulty
 <p><i>“How can we improve the AI system’s ability to generate questions with complexity levels that consistently align with human expectations of difficulty?”</i></p>
 
 # Challenges
-Achieving proper alignment between AI understanding of question complexity and human perception of difficulty faces several interrelated challenges, because "difficulty" is:
+Achieving proper alignment between AI understanding of question complexity and human perception of difficulty faces several interrelated challenges.
+<img width="2880" height="2310" alt="Chellenges in Measuring Complexity" src="https://github.com/user-attachments/assets/304533db-ec66-43eb-b7e2-02af38c44bd0" />
+
+This is because "difficulty" is:
 - A Fluid Concept
 - Malleable
 - Hard to Define and Measure
@@ -27,3 +30,7 @@ The CI framework addresses limitations in existing methods, such as subjective h
 1.	RQ1: Do CI scores positively correlate with human-perceived question complexity rankings?
 2.	RQ2: Do CI complexity categories align with those assigned by human evaluators?
 
+
+
+
+<img width="602" height="425" alt="RQ1 Correlation" src="https://github.com/user-attachments/assets/3920906a-8008-4998-91e9-c8fe64010665" />
