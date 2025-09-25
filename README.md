@@ -22,6 +22,10 @@ Introducing the Cerebro Index (CI), a framework that integrates educational theo
 When given a text question as input, the Cerebro Index Framework outputs a complexity score (CI Score) that quantifies and represents the question’s inherent complexity. CI Scores are in a continuous range from 0.0 to 10.0 (inclusive).
 The CI framework addresses limitations in existing methods, such as subjective human judgment, rigid rule-based systems, and opaque machine learning models, by combining educational theory with scalable, interpretable metrics.  
 
+# Cerebro Index Frame System Design
+<img width="2152" height="1250" alt="CI System Components" src="https://github.com/user-attachments/assets/efa1f278-c039-4eea-8809-014c07a46333" />
+
+
 
 # Human Validation of the CI Framework
 <b>Research Questions</b>
