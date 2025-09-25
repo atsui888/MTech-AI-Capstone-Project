@@ -29,7 +29,7 @@ The CI framework addresses limitations in existing methods, such as subjective h
 2.	RQ2: Do CI complexity categories align with those assigned by human evaluators?
 <img width="2849" height="1604" alt="Finding 01" src="https://github.com/user-attachments/assets/8c9791ce-f98b-4141-a0f8-a14f6a059da5" />
 <br>
-<img width="2870" height="2000" alt="Finding 02" src="https://github.com/user-attachments/assets/b7f3f984-1b37-4f71-8112-640b2e097157" />
+
 <br>
 test abc
 
