@@ -27,8 +27,11 @@ The CI framework addresses limitations in existing methods, such as subjective h
 <b>Research Questions</b>
 1.	RQ1: Do CI scores positively correlate with human-perceived question complexity rankings?
 2.	RQ2: Do CI complexity categories align with those assigned by human evaluators?
+<img width="2849" height="1604" alt="Finding 01" src="https://github.com/user-attachments/assets/8c9791ce-f98b-4141-a0f8-a14f6a059da5" />
+<br>
+<img width="2870" height="2000" alt="Finding 02" src="https://github.com/user-attachments/assets/b7f3f984-1b37-4f71-8112-640b2e097157" />
+<br>
+test abc
 
 
 
-
-<img width="602" height="425" alt="RQ1 Correlation" src="https://github.com/user-attachments/assets/3920906a-8008-4998-91e9-c8fe64010665" />
