@@ -14,7 +14,7 @@ This is because "difficulty" is:
 - Malleable
 - Hard to Define and Measure
 
-Hence, to date, a universal standard for defining and measuring question difficulty does not exist.
+Hence, to date, there is no universal standard for defining and measuring question difficulty.
 
 # Proposed Solution - The Cerebro Index Framework
 Introducing the Cerebro Index (CI), a framework that integrates educational theory, cognitive science, and technical metrics into a unified system to quantify the complexity of a question.
