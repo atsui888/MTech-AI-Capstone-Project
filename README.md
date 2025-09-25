@@ -12,7 +12,10 @@ This is because "difficulty" is:
 - A Fluid Concept
 - Malleable
 - Hard to Define and Measure
+<br>
+<img width="1299" height="859" alt="AI vs Human Perception of Difficulty" src="https://github.com/user-attachments/assets/ebd8dbdc-b080-45ab-b23e-907642a55f3d" />
 
+<br>
 Hence, to date, a universal standard for defining and measuring question difficulty does not exist.
 
 # Proposed Solution - The Cerebro Index Framework
