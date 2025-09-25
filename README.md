@@ -67,6 +67,8 @@ The CI Framework provides a psychometrically grounded, continuous measure of que
 With further refinement and expanded validation, the Cerebro Index Framework has the potential to become a foundational tool for intelligent tutoring systems, automated assessment design, and rigorous AI capability benchmarking, enhancing the AI ability to generate questions with complexity levels that consistently match the difficulty expected by human users.
 
 <br>
+<img width="1315" height="201" alt="End Image CI Framework" src="https://github.com/user-attachments/assets/704e454d-d108-44eb-8066-8b926318bcc3" />
+
 
 
 
