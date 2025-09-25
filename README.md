@@ -30,6 +30,7 @@ The CI framework addresses limitations in existing methods, such as subjective h
 # Cerebro Index Framework - System Design
 <img width="2101" height="1210" alt="CI System Components" src="https://github.com/user-attachments/assets/c3e8802d-6833-4f0b-9440-f4623e56d2d4" />
 
+
 <br>
 # Human Validation of the CI Framework
 <b>Research Questions</b>
