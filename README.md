@@ -17,5 +17,13 @@ Hence, to date, a universal standard for defining and measuring question difficu
 # Proposed Solution - The Cerebro Index Framework
 Introducing the Cerebro Index (CI), a framework that integrates educational theory, cognitive science, and technical metrics into a unified system to quantify the complexity of a question.
 <img width="2970" height="1800" alt="Cerebro Index Framework - visual selection" src="https://github.com/user-attachments/assets/b6f3aa52-65b0-487e-a13f-4ef04550fc61" />
+<br>
+When given a text question as input, the Cerebro Index Framework outputs a complexity score (CI Score) that quantifies and represents the question’s inherent complexity. CI Scores are in a continuous range from 0.0 to 10.0 (inclusive).<br>
+The CI framework addresses limitations in existing methods, such as subjective human judgment, rigid rule-based systems, and opaque machine learning models, by combining educational theory with scalable, interpretable metrics.  
 
+
+# Human Validation of the CI Framework
+<b>Research Questions</b>
+1.	RQ1: Do CI scores positively correlate with human-perceived question complexity rankings?
+2.	RQ2: Do CI complexity categories align with those assigned by human evaluators?
 
