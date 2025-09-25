@@ -39,6 +39,7 @@ Despite these constraints, the study confirmed the potential of the Cerebro Inde
 
 <br>
 <img width="2691" height="233" alt="image" src="https://github.com/user-attachments/assets/4753e883-9c04-443d-b542-1555d5875348" />
+<br>
 
 
 
