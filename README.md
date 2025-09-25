@@ -31,6 +31,7 @@ The CI framework addresses limitations in existing methods, such as subjective h
 <br>
 <img width="2853" height="1601" alt="Finding 02" src="https://github.com/user-attachments/assets/1fe20356-0851-4cd2-8205-a2fa085edf1e" />
 <br>
+
 # Limitations
 While the results are promising, especially for RQ1, the study has limitations. The sample size was small, with only 54 unique questions evaluated by 51 participants for a total of 588 ranked or categorised questions, which limited the statistical power of the study. 
 It was a deliberate study design not to provide rubrics to the human evaluators to avoid biasing judgements. While the study did capture the raters’ natural correlations and category assignments, it introduced variability in human judgment for RQ2.
@@ -38,8 +39,9 @@ The coverage for this study was narrow, with only three domains and limited ques
 Despite these constraints, the study confirmed the potential of the Cerebro Index Framework.
 
 <br>
-<img width="2691" height="233" alt="image" src="https://github.com/user-attachments/assets/4753e883-9c04-443d-b542-1555d5875348" />
+
 <br>
+<img width="2691" height="233" alt="image" src="https://github.com/user-attachments/assets/4753e883-9c04-443d-b542-1555d5875348" />
 
 
 
