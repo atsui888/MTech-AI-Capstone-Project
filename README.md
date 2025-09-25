@@ -62,6 +62,7 @@ These findings support the CI Framework’s utility in:
 - Instructional sequencing and curriculum design
 - Adaptive learning systems, where CI scores can inform item selection and difficulty progression
 - AI evaluation, enabling benchmarking of LLMs on questions with objectively calibrated complexity
+- Prompt routing system
 
 Furthermore, the standardised nature of CI scoring enables cross-domain comparability, allowing for equating difficulty across disparate knowledge areas (e.g., supermarket math vs. machine learning theory), provided format-specific adjustments are applied.
 The CI Framework provides a psychometrically grounded, continuous measure of question complexity that bridges subjective perception and objective quantification. 
