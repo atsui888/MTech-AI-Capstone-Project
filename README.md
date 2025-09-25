@@ -45,8 +45,8 @@ Despite these constraints, the study confirmed the potential of the Cerebro Inde
 
 # Study Conclusion and Next Steps
 The Cerebro Index (CI) Framework demonstrates empirical validity as a quantitative method for assessing question complexity. The framework exhibits strong rank-order correlation between CI Scores and human-perceived difficulty (Spearman’s ρ > 0.7 in 6 of 9 domain-format conditions), with statistically significant alignment (p < 0.05) in key configurations such as Time in Personal Travel - MCQ (ρ = 0.943) and Supervised Machine Learning - True/False (ρ = 0.986).
-
 <br>
+
 These findings support the CI Framework’s utility in:
 - Cognitive load modelling in educational assessments
 - Instructional sequencing and curriculum design
