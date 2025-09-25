@@ -1,6 +1,6 @@
 # MTech-AI-Capstone-Project
 National University of Singapore - Institute of System Science - Masters of Technology in Artificial Intelligence Systems - Capstone Project
-Richard Chai (https://www.linkedin.com/in/richardchai/)
+By Richard Chai (https://www.linkedin.com/in/richardchai/)
 
 <br>
 # Problem Statement
